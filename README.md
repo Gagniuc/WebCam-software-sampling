@@ -1,7 +1,7 @@
 # WebCam software sampling
 This is a WebCam software for the Photon-pixel coupling method. The application is made in Visual Basic 6.0 (VB6).
 
-Please read:
+For more information, please read:
 
 Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations:
 https://www.sciencedirect.com/science/article/pii/S2215016119300901
