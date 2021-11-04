@@ -16,9 +16,6 @@ and
 Maps of electrical activity in diabetic patients and normal individuals:
 https://www.sciencedirect.com/science/article/pii/S2352340918312204
 
-
-Programming language: Visual Basic 6.0
-
 ![screenshot](https://github.com/Gagniuc/WebCam-software-sampling/blob/main/WebCam%20software%20(1).PNG)
 ![screenshot](https://github.com/Gagniuc/WebCam-software-sampling/blob/main/WebCam%20software%20(2).PNG)
 ![screenshot](https://github.com/Gagniuc/WebCam-software-sampling/blob/main/WebCam%20software%20(3).PNG)
