@@ -1,17 +1,13 @@
 # :video_camera: WebCam software sampling
-This is a WebCam software for the Photon-pixel coupling method. The application is made in Visual Basic 6.0 (VB6). For more information, please read:
+This is a WebCam software for the <kbd>Photon-pixel coupling</kbd> method. The application is made in <kbd>Visual Basic 6.0 (VB6)</kbd>. For more information, please read:
 
-<i>Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations</i>:
+1) <i>Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations</i>:
 https://www.sciencedirect.com/science/article/pii/S2215016119300901
 
-and
-
-<i>The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention</i>:
+2) <i>The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention</i>:
 https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663
 
-and
-
-<i>Maps of electrical activity in diabetic patients and normal individuals</i>:
+3) <i>Maps of electrical activity in diabetic patients and normal individuals</i>:
 https://www.sciencedirect.com/science/article/pii/S2352340918312204
 
 ![screenshot](https://github.com/Gagniuc/WebCam-software-sampling/blob/main/WebCam%20software%20(1).PNG)
