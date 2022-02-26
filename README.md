@@ -3,7 +3,7 @@ This is a WebCam software used in the <kbd>Photon-pixel coupling</kbd> method. T
 
 1) <i>[Photon-pixel coupling: A method for parallel acquisition of electrical signals in scientific investigations](https://www.sciencedirect.com/science/article/pii/S2215016119300901)</i>
 
-2) <i>[The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals: A gateway to onset prevention](https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663)</i>
+2) <i>[The electrical activity map of the human skin indicates strong differences between normal and diabetic individuals](https://www.sciencedirect.com/science/article/abs/pii/S0956566318306663)</i>
 
 3) <i>[Maps of electrical activity in diabetic patients and normal individuals](https://www.sciencedirect.com/science/article/pii/S2352340918312204)</i>
 
