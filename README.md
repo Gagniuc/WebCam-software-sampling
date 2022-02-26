@@ -7,9 +7,9 @@ This is a WebCam software used in the <kbd>Photon-pixel coupling</kbd> method. T
 
 3) <i>[Maps of electrical activity in diabetic patients and normal individuals](https://www.sciencedirect.com/science/article/pii/S2352340918312204)</i>
 
-![screenshot](https://github.com/Gagniuc/WebCam-software-sampling/blob/main/WebCam%20software%20(1).PNG)
 ![screenshot](https://github.com/Gagniuc/WebCam-software-sampling/blob/main/WebCam%20software%20(2).PNG)
 ![screenshot](https://github.com/Gagniuc/WebCam-software-sampling/blob/main/WebCam%20software%20(3).PNG)
+![screenshot](https://github.com/Gagniuc/WebCam-software-sampling/blob/main/WebCam%20software%20(1).PNG)
 
 # References
 ▪	<i>Gagniuc, P.A., Ionescu-Tirgoviste, C., Gagniuc, E.. Photon-pixel coupling: a method for parallel acquisition of electrical signals for scientific investigations. Methods X, 6(2019) 968-979.</i>
